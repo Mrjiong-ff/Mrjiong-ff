@@ -3,6 +3,7 @@
 ### I'm Jiong
 
 - 🖲 A sophomore studying with Guangzhou City Institute of technology
+- 🐺 An intern of GCU Robot（Wild Wolf）
 - 🤖 Learning robot engineering
 - 📎Interested in robot vision, image processing and algorithms
 - 📷Photography enthusiast and 📽️ Film enthusiasts
