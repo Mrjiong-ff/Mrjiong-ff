@@ -1,6 +1,6 @@
-### What's up 👋
+# What's up 👋
 
-<!--
+
 **Mrjiong-ff/Mrjiong-ff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### I'm Jiong
@@ -13,5 +13,5 @@
 - 😃Want to be a robot engineer or computer vision developer 
 -  🖤Welcome to my knowledge base: [Click here](https://www.yuque.com/ajiong-hwcyf)
 -  ❤️🇨🇳
-- ⚡ Fun fact: ...
--->
+
+
