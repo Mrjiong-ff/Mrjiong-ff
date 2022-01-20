@@ -1,4 +1,4 @@
-# What's up 👋
+# Hey  👋
 
 ### I'm Jiong
 
